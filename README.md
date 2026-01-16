@@ -1,4 +1,3 @@
-```markdown
 # test1
 ai application in industries
 
@@ -8,5 +7,4 @@ sequenceDiagram
     Alice->>+John: John, can you hear me?
     John-->>-Alice: Hi Alice, I can hear you!
     John-->>-Alice: I feel great!
-```
 ```
